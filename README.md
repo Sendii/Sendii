@@ -1,8 +1,8 @@
 ### Haloo 👋, I'm Sendii !
 
 <a href="https://instagram.com/seendaaay_">
-  <img align="left" alt="Sendi | Instagram" width="21px" src="https://raw.githubusercontent.com/Sendii/Sendii/main/assets/ig.png"/>
-</a>@seendaaay_
+  <img align="left" alt="Sendi | Instagram" width="21px" src="https://raw.githubusercontent.com/Sendii/Sendii/main/assets/ig.png"/>@seendaaay_
+</a>
 
 <br />
 <br />
